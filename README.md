@@ -47,7 +47,7 @@ Central Region represents the greatest percentage in our data
 we conclude that Same Day shipping and the second class has the highest sales average  May be due to:
 * Same day -> the urgent need 
 * Seccond Class -> the reasonable price
-* 
+ 
 First class shipping has the highest profit justified as:
 *  it offers good service and high fees 
 
