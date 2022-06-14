@@ -9,7 +9,9 @@ We are only interested in Sales, Profit and Discount
 * Should marketing strategies change ??
 
 Regions appears in data as shown in the following plot:
+
 ![alt](/images/region.png)
+
 
 Central Region represents the greatest percentage in our data
 
@@ -41,6 +43,7 @@ Central Region represents the greatest percentage in our data
 ## Shipment  types
 
 ![alt](/images/ship.png)
+
 we conclude that Same Day shipping and the second class has the highest sales average  May be due to:
 * Same day -> the urgent need 
 * Seccond Class -> the reasonable price
